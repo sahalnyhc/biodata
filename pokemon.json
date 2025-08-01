@@ -1,0 +1,101 @@
+[
+    {
+        "Nama" : "Mega Banette",
+        "Jenis kelamin" : "L/P",
+        "Berat" : "13.06kg",
+        "Tipe" : [
+            "Hantu"
+        ],
+        "Kemampuan" : [
+            "Semangat Usil"
+        ],
+        "Kelemahan" :[
+                    "Hantu",
+                    "Kegelapan"
+                ]   
+    },
+
+    {
+        "Nama" : "Mega Absol",
+        "Jenis Kelamin" : "L/P",
+        "Berat" : "49,0kg",
+        "Tipe" : [
+            "Kegelapan"
+        ] ,
+        "Kemampuan" : [
+            "Cermin Ajaib"
+        ],
+        "Kelemahan" :[
+
+                    "Petarung",
+                    "Seranga",
+                    "Peri"
+                     ]  
+        
+    },
+
+    {
+        "Nama" : "Tropius",
+        "Jenis kelamin" : "L/P",
+        "Berat" : "100kg",
+        "Tipe" :[
+
+                "Daun",
+                "Terbang" 
+        ],
+        "Kemapuan" : [  
+                "Klorifil",
+                "Tenaga Surya"
+         ],
+
+         "Kelemahan" :[
+
+            "Api",
+            "Es",
+            "Racun",
+            "Terbang",
+            "Bebatuan"
+         ]
+    },
+
+    {
+        "Nama" : "Glalie",
+        "Jenis Kelamin" : "L/P",
+        "Berat" : "256,5kg",
+        "Tipe" : [
+          "Es"  
+        ],
+        "Kemampuan" : [
+            "Kekuatan Mental",
+            "Tubuh Es"
+        ],
+
+        "Kelemahan" : [
+            "Api",
+            "Petarung",
+            "Bebatuan",
+            "Logam"
+        ]
+    },
+
+    {
+        "Nama" : "Spheal",
+        "Jenis Kelamin" : "L/P",
+        "Berat" : "39,5kg",
+        "Tipe" :[
+            "Es",
+            "Air"
+        ],
+        "Kemampuan" :[
+            "Lemak Tebal",
+            "Tubuh Es"
+        ],
+        "Kelemahan" : [
+            "Daun",
+            "Listrik",
+            "Petarung",
+            "Bebatuan"
+        ]
+    }
+]
+
