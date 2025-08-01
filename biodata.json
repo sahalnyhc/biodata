@@ -1,0 +1,23 @@
+
+[
+    {
+        "nama":"muhammad Sahal",
+        "tempat lahir":"bandung",
+        "tanggal lahir":"13-10-2007",
+        "alamat":{
+            "jalan":"jl.sadang rt 05 rw 05",
+            "desa":"margahayu tengah",
+            "kecamatan":"margahayu"
+        },
+        "hobi":[
+            "mendengarkan musik",
+            "nonton konser musik",
+            "bersholawat"
+        ],
+        "kontak":{
+            "email":"sahalmarhas@gmail.com",
+            "instragam":"@shlnyhc",
+            "no handphone":"0856242131896"
+        }
+    }
+]
